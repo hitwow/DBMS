@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1379172561 source:e:\my world\work\课程\软开ii\dbms\dbms\createtable.cpp
+	<fstream>
+	<string.h>
+
+1381547076 source:e:\my world\work\课程\软开ii\dbms\dbms\main.cpp
+	"DBMS.h"
+	<string.h>
+
+1381543289 e:\my world\work\课程\软开ii\dbms\dbms\dbms.h
+	<iostream>
+	"CreateTable.hpp"
+	"insert.hpp"
+	"update.hpp"
+	"delete.hpp"
+	"other.hpp"
+
+1381391907 e:\my world\work\课程\软开ii\dbms\dbms\createtable.cpp
+	<fstream>
+	<string.h>
+	"DBMS.h"
+
+1381545493 e:\my world\work\课程\软开ii\dbms\dbms\createtable.hpp
+	<fstream>
+	<string.h>
+	"DBMS.h"
+
+1381546948 e:\my world\work\课程\软开ii\dbms\dbms\insert.hpp
+	"DBMS.h"
+	<string.h>
+	<iostream>
+	<fstream>
+
+1381543266 e:\my world\work\课程\软开ii\dbms\dbms\update.hpp
+	"DBMS.h"
+
+1381509028 e:\my world\work\课程\软开ii\dbms\dbms\delete.hpp
+	"DBMS.h"
+
+1381547076 e:\my world\work\课程\软开ii\dbms\dbms\other.hpp
+	"DBMS.h"
+	<fstream>
+	<string.h>
+	<stdlib.h>
+
